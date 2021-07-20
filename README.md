@@ -1,2 +1,2 @@
-# portifolio
-Meu portifólio
+# Portifólio
+Apresentando meu portifólio.
